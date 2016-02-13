@@ -3,6 +3,7 @@
 *Stand: 11.02.2016*
 
 - Tariflaufzeit jeweils 30 Tage.
+  - Wird bei ausreichendem Guthaben automatisch verlaengert.
 - Prepaid Modi:
   - Manuelle Aufladung per Bons. An den Aldi-Kassen erwerbbar.
   - Manuelle Aufladung per Bankeinzug mit explizitem Auftrag (SMS an AldiTalk).
