@@ -11,11 +11,11 @@
 
 |                                        | 300          | 600           | Flat          |
 |----------------------------------------|--------------|---------------|---------------|
-| SMS und Gespraechsminuten inklusive:   | 300          | 600           | -             |
-| Schnelles Datenvolumen inklusive (MB): | 400          | 600           | -             |
+| SMS:                                   | 0,11         | 0,11          | -             |
 | Anrufe extern (Festnetz/Mobil) (Min.): | 0,11 EUR     | 0,11 EUR      | -             |
 | Anrufe AldiTalk intern:                | -            | -             | -             |
-| SMS:                                   | 0,11         | 0,11          | -             |
+| SMS und Gespraechsminuten inklusive:   | 300          | 600           | -             |
+| Schnelles Datenvolumen inklusive (MB): | 400          | 600           | -             |
 | Nachbuchen von schnellem Datenvolumen: | 3 EUR        | 4 EUR         | 5 EUR         |
 | &nbsp;                                 |              |               |               |
 | **Preis:**                             | **7,99 EUR** | **12,99 EUR** | **19,99 EUR** |
